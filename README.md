@@ -1,2 +1,2 @@
-# KNN 2
+# KNN
  KNN algo
